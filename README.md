@@ -1,4 +1,4 @@
 # AI-lab
 second repository.
 <br>
-akd
+akd github.
